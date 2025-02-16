@@ -8,4 +8,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [Telegram](https://T.me/mhrezaai) ￼Enter
+- How to reach me : with my [Telegram](https://T.me/mhrezaai) 
