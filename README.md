@@ -1,5 +1,5 @@
 # Lenovo Demo
-![viewfinal](https://github.com/user-attachments/assets/6f11ca04-787a-47e9-8059-b7233a26ca76)
+![viewfinal](https://github.com/user-attachments/assets/7dd85b69-ddae-4a1c-b934-7325e8d37e29)
 
 - [Demo Project](https://mrabbasiweb.github.io/lenovodemo/)
 
